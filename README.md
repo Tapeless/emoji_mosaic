@@ -13,9 +13,9 @@ All that is required is a source image and a filedir containing photos to be use
 Source Image: ![image](https://user-images.githubusercontent.com/72606788/209713990-72a2269f-1cde-4065-8cda-f1e794b726af.png)
 
 
-Output Image (scaling factor 2): ![image](https://user-images.githubusercontent.com/72606788/209720264-3c90d20d-972f-4b05-8840-d40906c7fb23.png)
+Screencaps of Output Image (scaling factor 2): ![image](https://user-images.githubusercontent.com/72606788/209720264-3c90d20d-972f-4b05-8840-d40906c7fb23.png)
 ![image](https://user-images.githubusercontent.com/72606788/209720285-a6f8fa05-9973-4b4a-a9fe-a15fbbc511b2.png)
 
 
-Output Image (scaling factor 6): ![image](https://user-images.githubusercontent.com/72606788/209720385-de269056-ba24-4318-b8e7-f233de3e06af.png)
+Screencaps of Output Image (scaling factor 6): ![image](https://user-images.githubusercontent.com/72606788/209720385-de269056-ba24-4318-b8e7-f233de3e06af.png)
 ![image](https://user-images.githubusercontent.com/72606788/209720314-2e5cb1a5-0fbc-4907-a635-22cb67c6240f.png)
